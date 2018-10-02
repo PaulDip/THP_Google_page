@@ -120,10 +120,18 @@ p{
 }
 
 .France {
-  order: 1
+  order:-1
+  color:#848482;
+  color:#757575;
+  padding:10px;
+  font-size:10pt;
+  border-top: 1px solid #e4e4e4;
+  background: #f2f2f2;
+  width: 100%
 }
 
 .surfoot{
   display: flex;
-  flex-direction: column;
+  flex-direction:row;
+  align-items: stretch;
 }
