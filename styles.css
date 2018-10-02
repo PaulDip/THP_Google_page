@@ -107,12 +107,17 @@ p{
   font-size:10pt;
 }
 
+.sign_in a{
+  color: white;
+}
+
 .sign_in{
-  background: lightblue;
+  background: #4685EE;
   margin-right: 25px;
   padding: 7px 15px;
   border-radius: 3px;
   font-weight: bold;
+
 }
 
 #menu_bis{
