@@ -100,3 +100,11 @@ p{
   padding:5px;
   font-size:10pt;
 }
+
+.sign_in{
+  background: #4887ef; 
+  margin-right: 25px;
+  padding: 7px 15px;
+  border-radius: 3px;
+  font-weight: bold;
+}
