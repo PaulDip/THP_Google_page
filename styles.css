@@ -1,0 +1,23 @@
+.container1 {
+  display: inline-flex;
+  align-items: flex-start;
+
+}
+
+#menu {
+
+}
+
+#footerdroite {
+  justify-content: flex-end;
+}
+
+#footergauche {
+  justify-content: flex-start;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
