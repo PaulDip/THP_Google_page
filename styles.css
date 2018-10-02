@@ -118,3 +118,12 @@ p{
 #menu_bis{
   padding-top: 3px;
 }
+
+.France {
+  order: 1
+}
+
+.surfoot{
+  display: flex;
+  flex-direction: column;
+}
