@@ -106,3 +106,15 @@ p{
   padding:5px;
   font-size:10pt;
 }
+
+.sign_in{
+  background: lightblue;
+  margin-right: 25px;
+  padding: 7px 15px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+#menu_bis{
+  padding-top: 3px;
+}
